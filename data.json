@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Vegetarian Pasta Primavera",
+    "time": 25,
+    "diet": "V",
+    "details": "Boil pasta. Saut\u00e9 mixed vegetables in olive oil. Toss with pasta. Season with salt, pepper, and Parmesan cheese."
+  },
+  {
+    "name": "Spicy Chickpea Curry",
+    "time": 40,
+    "diet": "VG",
+    "details": "Cook chickpeas with onions, tomatoes, and spices. Serve over rice. Garnish with cilantro."
+  },
+  {
+    "name": "Grilled Halal Chicken Skewers",
+    "time": 30,
+    "diet": "H",
+    "details": "Marinate chicken in halal spices. Skewer and grill until cooked. Serve with garlic sauce."
+  },
+  {
+    "name": "Kosher Baked Salmon",
+    "time": 20,
+    "diet": "K",
+    "details": "Season salmon with kosher salt and herbs. Bake until flaky. Squeeze lemon juice before serving."
+  },
+  {
+    "name": "Gluten-Free Quinoa Salad",
+    "time": 15,
+    "diet": "GF",
+    "details": "Cook quinoa. Mix with diced vegetables, olive oil, and lemon vinaigrette. Chill before serving."
+  },
+  {
+    "name": "Dairy-Free Coconut Curry Soup",
+    "time": 35,
+    "diet": "DF",
+    "details": "Simmer coconut milk, vegetables, and curry paste. Add tofu or chicken. Serve hot with rice noodles."
+  },
+  {
+    "name": "Vegan Lentil Tacos",
+    "time": 30,
+    "diet": "VG",
+    "details": "Cook lentils with taco seasoning. Assemble tacos with vegan toppings like guacamole, salsa, and lettuce."
+  },
+  {
+    "name": "Mediterranean Quiche",
+    "time": 45,
+    "diet": "V",
+    "details": "Whisk eggs, feta, olives, and spinach. Pour into pie crust. Bake until golden brown and set."
+  },
+  {
+    "name": "Halal Beef Kebabs",
+    "time": 35,
+    "diet": "H",
+    "details": "Marinate beef chunks in halal spices. Skewer and grill until desired doneness. Serve with tzatziki."
+  },
+  {
+    "name": "Kosher Chocolate Babka",
+    "time": 60,
+    "diet": "K",
+    "details": "Prepare chocolate filling. Layer with dough, roll, and twist. Bake until golden. Drizzle with icing."
+  },
+  {
+    "name": "Vegetarian Pasta Primavera",
+    "time": "25",
+    "diet": "K",
+    "details": "Boil pasta. Saut\u00e9 mixed vegetables in olive oil. Toss with pasta. Season with salt, pepper, and Parmesan cheese."
+  },
+  {
+    "name": "Spicy Chickpea Curry",
+    "time": "40",
+    "diet": "VG",
+    "details": "Cook chickpeas with onions, tomatoes, and spices. Serve over rice. Garnish with cilantro"
+  },
+  {
+    "name": "Test Recipe",
+    "time": 30,
+    "diet": "V",
+    "details": "Test recipe details"
+  },
+  {
+    "name": "Tester Recipe 1",
+    "time": 15,
+    "diet": "H",
+    "details": "This is a tester recipe for the purposes of running tester.py"
+  },
+  {
+    "name": "Tester Recipe 1",
+    "time": 15,
+    "diet": "H",
+    "details": "This is a tester recipe for the purposes of running tester.py"
+  },
+  {
+    "name": "Tester Recipe 1",
+    "time": 15,
+    "diet": "H",
+    "details": "This is a tester recipe for the purposes of running tester.py"
+  },
+  {
+    "name": "Tester Recipe 1",
+    "time": 15,
+    "diet": "H",
+    "details": "This is a tester recipe for the purposes of running tester.py"
+  },
+  {
+    "name": "Tester Recipe 1",
+    "time": 15,
+    "diet": "H",
+    "details": "This is a tester recipe for the purposes of running tester.py"
+  },
+  {
+    "name": "Tester Recipe 1",
+    "time": 15,
+    "diet": "H",
+    "details": "This is a tester recipe for the purposes of running tester.py"
+  },
+  {
+    "name": "randomrecipe",
+    "time": "10",
+    "diet": "V",
+    "details": "description"
+  },
+  {
+    "name": "Tester Recipe 1",
+    "time": 15,
+    "diet": "H",
+    "details": "This is a tester recipe for the purposes of running tester.py"
+  },
+  {
+    "name": "Recipe1",
+    "time": "10",
+    "diet": "Description",
+    "details": "Desciption"
+  },
+  {
+    "name": "Tester Recipe 1",
+    "time": 15,
+    "diet": "H",
+    "details": "This is a tester recipe for the purposes of running tester.py"
+  },
+  {
+    "name": "REcipe3",
+    "time": "10",
+    "diet": "VG",
+    "details": "Description"
+  }
+]
